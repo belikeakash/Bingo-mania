@@ -1,3 +1,5 @@
+<img width="1728" alt="Screenshot 2023-10-27 at 12 38 29 PM" src="https://github.com/belikeakash/Bingo-mania/assets/76730100/f3bd50c6-2344-46a2-a36f-038671fb578b">
+
 # create-svelte
 
 Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
